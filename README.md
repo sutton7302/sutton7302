@@ -1,6 +1,7 @@
-![Banner]([https://via.placeholder.com/1500x500/4A90E2/FFFFFF?text=Welcome+to+My+GitHub+Profile](https://raw.githubusercontent.com/sutton7302/sutton7302/refs/heads/main/deep-learning.png))
+![Dylan's GitHub Contributions](https://raw.githubusercontent.com/sutton7302/sutton7302/refs/heads/main/deep-learning.png)
 
-# Hi there, I'm Dylan Sutton Chávez 👋
+
+# Hi there, I'm Dylan Sutton Chavez 👋
 
 Welcome to my GitHub profile! I'm an AI engineer and researcher specializing in deep learning, graph neural networks, and axiomatic theorem-proving models.
 
