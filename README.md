@@ -29,6 +29,3 @@ Welcome to my GitHub profile! I'm an AI engineer and researcher specializing in 
 
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sutton7302&layout=compact&theme=tokyonight)
-
-### Contributions in the Last Year:
-![Dylan's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sutton7302&theme=tokyonight)
